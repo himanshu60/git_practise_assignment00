@@ -13,3 +13,6 @@ return false;
 }
 let ans=checkPrime(13);
 if(ans==true){
+   console.log("prime number");}
+   else{
+      console.log("Not prime");}
